@@ -1,0 +1,76 @@
+\documentclass[12pt,oneside]{paper}
+
+\usepackage{listings}
+\renewcommand{\lstlistingname}{saucecode}
+
+\lstset{%
+  language={C},
+  basicstyle={\small},%
+  identifierstyle={\small},%
+  commentstyle={\small\itshape},%
+  keywordstyle={\small\bfseries},%
+  ndkeywordstyle={\small},%
+  stringstyle={\small\ttfamily},
+  frame={tb},
+  breaklines=true,
+  columns=[l]{fullflexible},%
+  numbers=left,%
+  xrightmargin=0zw,%
+  xleftmargin=3zw,%
+  numberstyle={\scriptsize},%
+  stepnumber=1,
+  numbersep=1zw,%
+  lineskip=-0.5ex%
+}
+
+
+
+% タイトル
+\title{長距離飛行するストロー飛行機の製作}
+\author{北川鼓太朗}
+
+\begin{document}
+% 行間
+\setlength{\baselineskip}{9truemm}
+
+%文字間
+\kanjiskip=.53zw plus 3pt minus 3pt
+\xkanjiskip=.53zw plus 3pt minus 3pt
+
+% 目次
+\tableofcontents
+%\newpage
+% 本文
+\input{1_hazimeni.tex}
+
+\input{2_hikourironnituite.tex}
+
+\input{3_sutorohikoukinosakusei.tex}
+
+\input{4_hikousiken.tex}
+
+\input{5_owarini.tex}
+
+\input{6_sankou.tex}
+
+
+
+
+\chapter*{謝辞}
+\addcontentsline{toc}{chapter}{謝辞}
+本論文作成にあたり研究の考え方,方法のまとめ方など長期にわたって熱意のあるご指導,ご鞭撻していただいた,伊藤恒平教授に厚く御礼申し上げます．
+
+特に飛行機の原理や実験方法、また論文の書き方においても論文を何度も読んでいただき,指導していただいた伊藤恒平教授,に大変ご苦労をかけてしまいましたことにも心よりお詫び申し上げます．
+
+その他,助けていただいた多くの皆様に心から感謝しております.ありがとうございました．
+
+
+
+
+\end{document}
+
+
+
+
+
+

@@ -1,0 +1,39 @@
+\contentsline {chapter}{\numberline {第1章}はじめに}{3}
+\contentsline {section}{\numberline {1.1}研究の背景}{3}
+\contentsline {section}{\numberline {1.2}研究の目的}{3}
+\contentsline {section}{\numberline {1.3}本論文の構成}{4}
+\contentsline {chapter}{\numberline {第2章}実験用飛行機の試作機の設計}{6}
+\contentsline {section}{\numberline {2.1}一般的な飛行機の形状}{6}
+\contentsline {section}{\numberline {2.2}ストローの良否の選定}{6}
+\contentsline {section}{\numberline {2.3}モデルに選んだ機体の説明}{7}
+\contentsline {subsection}{\numberline {2.3.1}零戦}{8}
+\contentsline {subsection}{\numberline {2.3.2}F6F ヘルキャット}{8}
+\contentsline {section}{\numberline {2.4}試作機の図面の製作方法}{9}
+\contentsline {section}{\numberline {2.5}飛行機の縦の安定性}{11}
+\contentsline {subsection}{\numberline {2.5.1}空力中心}{13}
+\contentsline {chapter}{\numberline {第3章}ストロー飛行機の作成}{15}
+\contentsline {section}{\numberline {3.1}翼の加工方法}{15}
+\contentsline {subsection}{\numberline {3.1.1}カッター}{15}
+\contentsline {subsection}{\numberline {3.1.2}レーザ加工}{15}
+\contentsline {section}{\numberline {3.2}接着方法}{17}
+\contentsline {section}{\numberline {3.3}組み立て}{19}
+\contentsline {chapter}{\numberline {第4章}飛行試験}{22}
+\contentsline {section}{\numberline {4.1}実験の目的}{22}
+\contentsline {section}{\numberline {4.2}実験の方法}{22}
+\contentsline {section}{\numberline {4.3}実験結果}{23}
+\contentsline {subsection}{\numberline {4.3.1}ストロー投射実験}{23}
+\contentsline {subsection}{\numberline {4.3.2}ストロー落下実験横}{23}
+\contentsline {subsection}{\numberline {4.3.3}ストロー落下実験縦}{23}
+\contentsline {subsection}{\numberline {4.3.4}重心位置が空力中心より前の場合}{24}
+\contentsline {subsubsection}{零戦}{24}
+\contentsline {subsubsection}{ヘルキャット}{25}
+\contentsline {subsection}{\numberline {4.3.5}重心位置が空力中心より後の場合}{26}
+\contentsline {subsubsection}{零戦}{26}
+\contentsline {subsubsection}{ヘルキャット}{26}
+\contentsline {subsection}{\numberline {4.3.6}重心位置と空力中心が同じ場合}{26}
+\contentsline {subsubsection}{零戦}{26}
+\contentsline {subsubsection}{ヘルキャット}{27}
+\contentsline {subsection}{\numberline {4.3.7}考察}{28}
+\contentsline {chapter}{\numberline {第5章}おわりに}{29}
+\contentsline {chapter}{参考文献}{30}
+\contentsline {chapter}{謝辞}{31}
